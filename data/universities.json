@@ -28,16 +28,16 @@
         "211"
       ],
       "indicators": {
-        "788": "36.2",
-        "789": "85.0",
-        "790": "48.1",
-        "791": "56.5",
-        "792": "333.0",
-        "793": "116.2",
-        "794": "37.1",
-        "795": "146.4",
-        "796": "101.3",
-        "797": "127.4"
+        "faculty": 56.5,
+        "research": 116.2,
+        "resources": 48.1,
+        "discipline": 85,
+        "top_talent": 146.4,
+        "school_level": 36.2,
+        "international": 127.4,
+        "major_projects": 101.3,
+        "social_service": 37.1,
+        "talent_training": 333
       }
     }
   },
@@ -70,16 +70,16 @@
         "211"
       ],
       "indicators": {
-        "788": "35.0",
-        "789": "86.2",
-        "790": "29.9",
-        "791": "54.4",
-        "792": "330.5",
-        "793": "116.8",
-        "794": "22.4",
-        "795": "149.8",
-        "796": "101.4",
-        "797": "109.8"
+        "faculty": 54.4,
+        "research": 116.8,
+        "resources": 29.9,
+        "discipline": 86.2,
+        "top_talent": 149.8,
+        "school_level": 35,
+        "international": 109.8,
+        "major_projects": 101.4,
+        "social_service": 22.4,
+        "talent_training": 330.5
       }
     }
   },
@@ -113,16 +113,16 @@
         "211"
       ],
       "indicators": {
-        "788": "34.9",
-        "789": "77.1",
-        "790": "34.9",
-        "791": "52.1",
-        "792": "299.2",
-        "793": "116.8",
-        "794": "33.5",
-        "795": "104.7",
-        "796": "67.3",
-        "797": "75.2"
+        "faculty": 52.1,
+        "research": 116.8,
+        "resources": 34.9,
+        "discipline": 77.1,
+        "top_talent": 104.7,
+        "school_level": 34.9,
+        "international": 75.2,
+        "major_projects": 67.3,
+        "social_service": 33.5,
+        "talent_training": 299.2
       }
     }
   },
@@ -155,16 +155,16 @@
         "211"
       ],
       "indicators": {
-        "788": "35.7",
-        "789": "71.0",
-        "790": "31.6",
-        "791": "54.5",
-        "792": "283.6",
-        "793": "132.9",
-        "794": "22.1",
-        "795": "102.3",
-        "796": "92.1",
-        "797": "68.5"
+        "faculty": 54.5,
+        "research": 132.9,
+        "resources": 31.6,
+        "discipline": 71,
+        "top_talent": 102.3,
+        "school_level": 35.7,
+        "international": 68.5,
+        "major_projects": 92.1,
+        "social_service": 22.1,
+        "talent_training": 283.6
       }
     }
   },
@@ -197,16 +197,16 @@
         "211"
       ],
       "indicators": {
-        "788": "36.8",
-        "789": "75.2",
-        "790": "19.7",
-        "791": "52.5",
-        "792": "267.0",
-        "793": "94.7",
-        "794": "16.6",
-        "795": "101.8",
-        "796": "75.6",
-        "797": "52.5"
+        "faculty": 52.5,
+        "research": 94.7,
+        "resources": 19.7,
+        "discipline": 75.2,
+        "top_talent": 101.8,
+        "school_level": 36.8,
+        "international": 52.5,
+        "major_projects": 75.6,
+        "social_service": 16.6,
+        "talent_training": 267
       }
     }
   },
@@ -239,16 +239,16 @@
         "211"
       ],
       "indicators": {
-        "788": "36.8",
-        "789": "64.0",
-        "790": "12.4",
-        "791": "50.7",
-        "792": "274.7",
-        "793": "73.1",
-        "794": "14.7",
-        "795": "85.3",
-        "796": "51.9",
-        "797": "44.8"
+        "faculty": 50.7,
+        "research": 73.1,
+        "resources": 12.4,
+        "discipline": 64,
+        "top_talent": 85.3,
+        "school_level": 36.8,
+        "international": 44.8,
+        "major_projects": 51.9,
+        "social_service": 14.7,
+        "talent_training": 274.7
       }
     }
   },
@@ -278,16 +278,16 @@
         "211"
       ],
       "indicators": {
-        "788": "40.0",
-        "789": "50.3",
-        "790": "16.1",
-        "791": "52.6",
-        "792": "238.6",
-        "793": "82.3",
-        "794": "11.5",
-        "795": "78.2",
-        "796": "29.6",
-        "797": "53.8"
+        "faculty": 52.6,
+        "research": 82.3,
+        "resources": 16.1,
+        "discipline": 50.3,
+        "top_talent": 78.2,
+        "school_level": 40,
+        "international": 53.8,
+        "major_projects": 29.6,
+        "social_service": 11.5,
+        "talent_training": 238.6
       }
     }
   },
@@ -321,16 +321,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.3",
-        "789": "52.7",
-        "790": "13.0",
-        "791": "53.7",
-        "792": "275.1",
-        "793": "64.8",
-        "794": "9.8",
-        "795": "55.5",
-        "796": "45.7",
-        "797": "35.9"
+        "faculty": 53.7,
+        "research": 64.8,
+        "resources": 13,
+        "discipline": 52.7,
+        "top_talent": 55.5,
+        "school_level": 32.3,
+        "international": 35.9,
+        "major_projects": 45.7,
+        "social_service": 9.8,
+        "talent_training": 275.1
       }
     }
   },
@@ -360,16 +360,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.6",
-        "789": "48.0",
-        "790": "14.4",
-        "791": "50.7",
-        "792": "255.7",
-        "793": "78.1",
-        "794": "17.1",
-        "795": "53.6",
-        "796": "54.7",
-        "797": "33.1"
+        "faculty": 50.7,
+        "research": 78.1,
+        "resources": 14.4,
+        "discipline": 48,
+        "top_talent": 53.6,
+        "school_level": 32.6,
+        "international": 33.1,
+        "major_projects": 54.7,
+        "social_service": 17.1,
+        "talent_training": 255.7
       }
     }
   },
@@ -399,16 +399,16 @@
         "211"
       ],
       "indicators": {
-        "788": "33.2",
-        "789": "45.6",
-        "790": "15.9",
-        "791": "52.3",
-        "792": "270.5",
-        "793": "73.4",
-        "794": "20.1",
-        "795": "46.8",
-        "796": "32.9",
-        "797": "30.2"
+        "faculty": 52.3,
+        "research": 73.4,
+        "resources": 15.9,
+        "discipline": 45.6,
+        "top_talent": 46.8,
+        "school_level": 33.2,
+        "international": 30.2,
+        "major_projects": 32.9,
+        "social_service": 20.1,
+        "talent_training": 270.5
       }
     }
   },
@@ -441,16 +441,16 @@
         "211"
       ],
       "indicators": {
-        "788": "33.8",
-        "789": "43.9",
-        "790": "16.6",
-        "791": "51.5",
-        "792": "250.5",
-        "793": "66.9",
-        "794": "16.6",
-        "795": "59.5",
-        "796": "46.6",
-        "797": "26.8"
+        "faculty": 51.5,
+        "research": 66.9,
+        "resources": 16.6,
+        "discipline": 43.9,
+        "top_talent": 59.5,
+        "school_level": 33.8,
+        "international": 26.8,
+        "major_projects": 46.6,
+        "social_service": 16.6,
+        "talent_training": 250.5
       }
     }
   },
@@ -480,16 +480,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.4",
-        "789": "43.7",
-        "790": "21.2",
-        "791": "50.8",
-        "792": "254.2",
-        "793": "70.5",
-        "794": "21.9",
-        "795": "44.2",
-        "796": "41.5",
-        "797": "27.4"
+        "faculty": 50.8,
+        "research": 70.5,
+        "resources": 21.2,
+        "discipline": 43.7,
+        "top_talent": 44.2,
+        "school_level": 32.4,
+        "international": 27.4,
+        "major_projects": 41.5,
+        "social_service": 21.9,
+        "talent_training": 254.2
       }
     }
   },
@@ -519,16 +519,16 @@
         "211"
       ],
       "indicators": {
-        "788": "31.5",
-        "789": "54.0",
-        "790": "14.9",
-        "791": "52.8",
-        "792": "212.8",
-        "793": "91.0",
-        "794": "14.8",
-        "795": "59.8",
-        "796": "30.5",
-        "797": "35.5"
+        "faculty": 52.8,
+        "research": 91,
+        "resources": 14.9,
+        "discipline": 54,
+        "top_talent": 59.8,
+        "school_level": 31.5,
+        "international": 35.5,
+        "major_projects": 30.5,
+        "social_service": 14.8,
+        "talent_training": 212.8
       }
     }
   },
@@ -558,16 +558,16 @@
         "211"
       ],
       "indicators": {
-        "788": "33.3",
-        "789": "35.8",
-        "790": "18.3",
-        "791": "50.3",
-        "792": "232.5",
-        "793": "67.8",
-        "794": "18.7",
-        "795": "50.1",
-        "796": "54.6",
-        "797": "33.9"
+        "faculty": 50.3,
+        "research": 67.8,
+        "resources": 18.3,
+        "discipline": 35.8,
+        "top_talent": 50.1,
+        "school_level": 33.3,
+        "international": 33.9,
+        "major_projects": 54.6,
+        "social_service": 18.7,
+        "talent_training": 232.5
       }
     }
   },
@@ -597,16 +597,16 @@
         "211"
       ],
       "indicators": {
-        "788": "35.0",
-        "789": "51.9",
-        "790": "16.3",
-        "791": "51.6",
-        "792": "240.4",
-        "793": "68.9",
-        "794": "19.7",
-        "795": "42.5",
-        "796": "35.7",
-        "797": "30.2"
+        "faculty": 51.6,
+        "research": 68.9,
+        "resources": 16.3,
+        "discipline": 51.9,
+        "top_talent": 42.5,
+        "school_level": 35,
+        "international": 30.2,
+        "major_projects": 35.7,
+        "social_service": 19.7,
+        "talent_training": 240.4
       }
     }
   },
@@ -638,16 +638,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.5",
-        "789": "42.6",
-        "790": "11.3",
-        "791": "50.1",
-        "792": "245.9",
-        "793": "77.1",
-        "794": "14.6",
-        "795": "46.6",
-        "796": "32.2",
-        "797": "28.5"
+        "faculty": 50.1,
+        "research": 77.1,
+        "resources": 11.3,
+        "discipline": 42.6,
+        "top_talent": 46.6,
+        "school_level": 32.5,
+        "international": 28.5,
+        "major_projects": 32.2,
+        "social_service": 14.6,
+        "talent_training": 245.9
       }
     }
   },
@@ -677,16 +677,16 @@
         "211"
       ],
       "indicators": {
-        "788": "33.0",
-        "789": "59.1",
-        "790": "14.0",
-        "791": "50.7",
-        "792": "241.6",
-        "793": "44.9",
-        "794": "2.4",
-        "795": "45.1",
-        "796": "52.1",
-        "797": "15.1"
+        "faculty": 50.7,
+        "research": 44.9,
+        "resources": 14,
+        "discipline": 59.1,
+        "top_talent": 45.1,
+        "school_level": 33,
+        "international": 15.1,
+        "major_projects": 52.1,
+        "social_service": 2.4,
+        "talent_training": 241.6
       }
     }
   },
@@ -716,16 +716,16 @@
         "211"
       ],
       "indicators": {
-        "788": "34.9",
-        "789": "42.8",
-        "790": "13.9",
-        "791": "48.0",
-        "792": "232.3",
-        "793": "69.2",
-        "794": "13.9",
-        "795": "50.5",
-        "796": "23.1",
-        "797": "28.0"
+        "faculty": 48,
+        "research": 69.2,
+        "resources": 13.9,
+        "discipline": 42.8,
+        "top_talent": 50.5,
+        "school_level": 34.9,
+        "international": 28,
+        "major_projects": 23.1,
+        "social_service": 13.9,
+        "talent_training": 232.3
       }
     }
   },
@@ -755,16 +755,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.6",
-        "789": "53.6",
-        "790": "13.5",
-        "791": "47.8",
-        "792": "220.4",
-        "793": "53.7",
-        "794": "3.9",
-        "795": "46.1",
-        "796": "30.4",
-        "797": "51.2"
+        "faculty": 47.8,
+        "research": 53.7,
+        "resources": 13.5,
+        "discipline": 53.6,
+        "top_talent": 46.1,
+        "school_level": 32.6,
+        "international": 51.2,
+        "major_projects": 30.4,
+        "social_service": 3.9,
+        "talent_training": 220.4
       }
     }
   },
@@ -797,16 +797,16 @@
         "211"
       ],
       "indicators": {
-        "788": "33.4",
-        "789": "35.3",
-        "790": "10.1",
-        "791": "51.5",
-        "792": "250.1",
-        "793": "51.5",
-        "794": "18.0",
-        "795": "38.6",
-        "796": "27.4",
-        "797": "28.5"
+        "faculty": 51.5,
+        "research": 51.5,
+        "resources": 10.1,
+        "discipline": 35.3,
+        "top_talent": 38.6,
+        "school_level": 33.4,
+        "international": 28.5,
+        "major_projects": 27.4,
+        "social_service": 18,
+        "talent_training": 250.1
       }
     }
   },
@@ -836,16 +836,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.5",
-        "789": "37.8",
-        "790": "8.7",
-        "791": "49.8",
-        "792": "238.7",
-        "793": "49.3",
-        "794": "6.0",
-        "795": "44.7",
-        "796": "32.7",
-        "797": "28.7"
+        "faculty": 49.8,
+        "research": 49.3,
+        "resources": 8.7,
+        "discipline": 37.8,
+        "top_talent": 44.7,
+        "school_level": 32.5,
+        "international": 28.7,
+        "major_projects": 32.7,
+        "social_service": 6,
+        "talent_training": 238.7
       }
     }
   },
@@ -875,16 +875,16 @@
         "211"
       ],
       "indicators": {
-        "788": "29.9",
-        "789": "38.8",
-        "790": "11.8",
-        "791": "53.2",
-        "792": "230.8",
-        "793": "63.9",
-        "794": "16.5",
-        "795": "38.7",
-        "796": "21.2",
-        "797": "22.3"
+        "faculty": 53.2,
+        "research": 63.9,
+        "resources": 11.8,
+        "discipline": 38.8,
+        "top_talent": 38.7,
+        "school_level": 29.9,
+        "international": 22.3,
+        "major_projects": 21.2,
+        "social_service": 16.5,
+        "talent_training": 230.8
       }
     }
   },
@@ -914,16 +914,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.9",
-        "789": "28.0",
-        "790": "14.5",
-        "791": "53.3",
-        "792": "228.5",
-        "793": "61.3",
-        "794": "10.5",
-        "795": "27.9",
-        "796": "41.7",
-        "797": "20.7"
+        "faculty": 53.3,
+        "research": 61.3,
+        "resources": 14.5,
+        "discipline": 28,
+        "top_talent": 27.9,
+        "school_level": 32.9,
+        "international": 20.7,
+        "major_projects": 41.7,
+        "social_service": 10.5,
+        "talent_training": 228.5
       }
     }
   },
@@ -953,16 +953,16 @@
         "211"
       ],
       "indicators": {
-        "788": "31.5",
-        "789": "41.1",
-        "790": "12.4",
-        "791": "48.2",
-        "792": "206.8",
-        "793": "55.6",
-        "794": "12.3",
-        "795": "42.2",
-        "796": "40.8",
-        "797": "28.3"
+        "faculty": 48.2,
+        "research": 55.6,
+        "resources": 12.4,
+        "discipline": 41.1,
+        "top_talent": 42.2,
+        "school_level": 31.5,
+        "international": 28.3,
+        "major_projects": 40.8,
+        "social_service": 12.3,
+        "talent_training": 206.8
       }
     }
   },
@@ -995,16 +995,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.7",
-        "789": "38.0",
-        "790": "15.3",
-        "791": "48.6",
-        "792": "206.1",
-        "793": "61.7",
-        "794": "9.0",
-        "795": "47.2",
-        "796": "24.8",
-        "797": "29.2"
+        "faculty": 48.6,
+        "research": 61.7,
+        "resources": 15.3,
+        "discipline": 38,
+        "top_talent": 47.2,
+        "school_level": 32.7,
+        "international": 29.2,
+        "major_projects": 24.8,
+        "social_service": 9,
+        "talent_training": 206.1
       }
     }
   },
@@ -1034,16 +1034,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.6",
-        "789": "40.5",
-        "790": "9.4",
-        "791": "51.7",
-        "792": "228.3",
-        "793": "55.6",
-        "794": "8.2",
-        "795": "29.7",
-        "796": "24.5",
-        "797": "19.8"
+        "faculty": 51.7,
+        "research": 55.6,
+        "resources": 9.4,
+        "discipline": 40.5,
+        "top_talent": 29.7,
+        "school_level": 30.6,
+        "international": 19.8,
+        "major_projects": 24.5,
+        "social_service": 8.2,
+        "talent_training": 228.3
       }
     }
   },
@@ -1073,16 +1073,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.6",
-        "789": "36.6",
-        "790": "9.9",
-        "791": "47.2",
-        "792": "205.4",
-        "793": "66.2",
-        "794": "13.9",
-        "795": "34.6",
-        "796": "23.7",
-        "797": "29.0"
+        "faculty": 47.2,
+        "research": 66.2,
+        "resources": 9.9,
+        "discipline": 36.6,
+        "top_talent": 34.6,
+        "school_level": 30.6,
+        "international": 29,
+        "major_projects": 23.7,
+        "social_service": 13.9,
+        "talent_training": 205.4
       }
     }
   },
@@ -1112,16 +1112,16 @@
         "211"
       ],
       "indicators": {
-        "788": "31.5",
-        "789": "28.1",
-        "790": "10.0",
-        "791": "48.8",
-        "792": "220.5",
-        "793": "48.3",
-        "794": "19.9",
-        "795": "32.0",
-        "796": "35.0",
-        "797": "21.5"
+        "faculty": 48.8,
+        "research": 48.3,
+        "resources": 10,
+        "discipline": 28.1,
+        "top_talent": 32,
+        "school_level": 31.5,
+        "international": 21.5,
+        "major_projects": 35,
+        "social_service": 19.9,
+        "talent_training": 220.5
       }
     }
   },
@@ -1151,16 +1151,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.8",
-        "789": "31.7",
-        "790": "11.1",
-        "791": "48.6",
-        "792": "214.8",
-        "793": "44.9",
-        "794": "4.8",
-        "795": "34.7",
-        "796": "23.7",
-        "797": "22.0"
+        "faculty": 48.6,
+        "research": 44.9,
+        "resources": 11.1,
+        "discipline": 31.7,
+        "top_talent": 34.7,
+        "school_level": 32.8,
+        "international": 22,
+        "major_projects": 23.7,
+        "social_service": 4.8,
+        "talent_training": 214.8
       }
     }
   },
@@ -1188,16 +1188,16 @@
         "双一流"
       ],
       "indicators": {
-        "788": "33.8",
-        "789": "16.8",
-        "790": "25.5",
-        "791": "49.1",
-        "792": "151.2",
-        "793": "45.0",
-        "794": "10.5",
-        "795": "63.2",
-        "796": "13.6",
-        "797": "58.2"
+        "faculty": 49.1,
+        "research": 45,
+        "resources": 25.5,
+        "discipline": 16.8,
+        "top_talent": 63.2,
+        "school_level": 33.8,
+        "international": 58.2,
+        "major_projects": 13.6,
+        "social_service": 10.5,
+        "talent_training": 151.2
       }
     }
   },
@@ -1229,16 +1229,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.7",
-        "789": "28.2",
-        "790": "9.2",
-        "791": "47.5",
-        "792": "197.1",
-        "793": "44.9",
-        "794": "11.4",
-        "795": "28.0",
-        "796": "45.1",
-        "797": "22.0"
+        "faculty": 47.5,
+        "research": 44.9,
+        "resources": 9.2,
+        "discipline": 28.2,
+        "top_talent": 28,
+        "school_level": 30.7,
+        "international": 22,
+        "major_projects": 45.1,
+        "social_service": 11.4,
+        "talent_training": 197.1
       }
     }
   },
@@ -1268,16 +1268,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.6",
-        "789": "31.5",
-        "790": "10.1",
-        "791": "44.8",
-        "792": "194.1",
-        "793": "47.1",
-        "794": "26.1",
-        "795": "29.3",
-        "796": "13.3",
-        "797": "29.5"
+        "faculty": 44.8,
+        "research": 47.1,
+        "resources": 10.1,
+        "discipline": 31.5,
+        "top_talent": 29.3,
+        "school_level": 30.6,
+        "international": 29.5,
+        "major_projects": 13.3,
+        "social_service": 26.1,
+        "talent_training": 194.1
       }
     }
   },
@@ -1307,16 +1307,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.5",
-        "789": "23.3",
-        "790": "10.5",
-        "791": "47.3",
-        "792": "213.5",
-        "793": "42.2",
-        "794": "13.2",
-        "795": "28.6",
-        "796": "18.9",
-        "797": "23.8"
+        "faculty": 47.3,
+        "research": 42.2,
+        "resources": 10.5,
+        "discipline": 23.3,
+        "top_talent": 28.6,
+        "school_level": 32.5,
+        "international": 23.8,
+        "major_projects": 18.9,
+        "social_service": 13.2,
+        "talent_training": 213.5
       }
     }
   },
@@ -1346,16 +1346,16 @@
         "211"
       ],
       "indicators": {
-        "788": "31.3",
-        "789": "28.7",
-        "790": "9.0",
-        "791": "46.7",
-        "792": "210.8",
-        "793": "45.6",
-        "794": "9.2",
-        "795": "23.9",
-        "796": "12.4",
-        "797": "18.4"
+        "faculty": 46.7,
+        "research": 45.6,
+        "resources": 9,
+        "discipline": 28.7,
+        "top_talent": 23.9,
+        "school_level": 31.3,
+        "international": 18.4,
+        "major_projects": 12.4,
+        "social_service": 9.2,
+        "talent_training": 210.8
       }
     }
   },
@@ -1384,16 +1384,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.4",
-        "789": "25.5",
-        "790": "9.0",
-        "791": "48.2",
-        "792": "199.6",
-        "793": "40.0",
-        "794": "9.0",
-        "795": "28.9",
-        "796": "17.2",
-        "797": "19.5"
+        "faculty": 48.2,
+        "research": 40,
+        "resources": 9,
+        "discipline": 25.5,
+        "top_talent": 28.9,
+        "school_level": 32.4,
+        "international": 19.5,
+        "major_projects": 17.2,
+        "social_service": 9,
+        "talent_training": 199.6
       }
     }
   },
@@ -1422,16 +1422,16 @@
         "211"
       ],
       "indicators": {
-        "788": "31.8",
-        "789": "19.2",
-        "790": "9.3",
-        "791": "47.0",
-        "792": "203.4",
-        "793": "42.4",
-        "794": "12.9",
-        "795": "19.0",
-        "796": "18.5",
-        "797": "15.8"
+        "faculty": 47,
+        "research": 42.4,
+        "resources": 9.3,
+        "discipline": 19.2,
+        "top_talent": 19,
+        "school_level": 31.8,
+        "international": 15.8,
+        "major_projects": 18.5,
+        "social_service": 12.9,
+        "talent_training": 203.4
       }
     }
   },
@@ -1460,16 +1460,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.4",
-        "789": "23.9",
-        "790": "9.0",
-        "791": "44.6",
-        "792": "206.5",
-        "793": "44.4",
-        "794": "12.7",
-        "795": "21.1",
-        "796": "10.7",
-        "797": "14.2"
+        "faculty": 44.6,
+        "research": 44.4,
+        "resources": 9,
+        "discipline": 23.9,
+        "top_talent": 21.1,
+        "school_level": 30.4,
+        "international": 14.2,
+        "major_projects": 10.7,
+        "social_service": 12.7,
+        "talent_training": 206.5
       }
     }
   },
@@ -1499,16 +1499,16 @@
         "211"
       ],
       "indicators": {
-        "788": "29.5",
-        "789": "22.3",
-        "790": "7.5",
-        "791": "43.1",
-        "792": "193.8",
-        "793": "36.4",
-        "794": "13.1",
-        "795": "17.3",
-        "796": "22.8",
-        "797": "12.8"
+        "faculty": 43.1,
+        "research": 36.4,
+        "resources": 7.5,
+        "discipline": 22.3,
+        "top_talent": 17.3,
+        "school_level": 29.5,
+        "international": 12.8,
+        "major_projects": 22.8,
+        "social_service": 13.1,
+        "talent_training": 193.8
       }
     }
   },
@@ -1537,16 +1537,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.8",
-        "789": "21.0",
-        "790": "8.2",
-        "791": "45.7",
-        "792": "185.7",
-        "793": "34.0",
-        "794": "12.6",
-        "795": "15.9",
-        "796": "24.2",
-        "797": "13.4"
+        "faculty": 45.7,
+        "research": 34,
+        "resources": 8.2,
+        "discipline": 21,
+        "top_talent": 15.9,
+        "school_level": 30.8,
+        "international": 13.4,
+        "major_projects": 24.2,
+        "social_service": 12.6,
+        "talent_training": 185.7
       }
     }
   },
@@ -1576,16 +1576,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.2",
-        "789": "28.0",
-        "790": "9.5",
-        "791": "46.5",
-        "792": "183.8",
-        "793": "42.4",
-        "794": "4.7",
-        "795": "19.4",
-        "796": "6.9",
-        "797": "14.9"
+        "faculty": 46.5,
+        "research": 42.4,
+        "resources": 9.5,
+        "discipline": 28,
+        "top_talent": 19.4,
+        "school_level": 32.2,
+        "international": 14.9,
+        "major_projects": 6.9,
+        "social_service": 4.7,
+        "talent_training": 183.8
       }
     }
   },
@@ -1614,16 +1614,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.5",
-        "789": "18.0",
-        "790": "9.1",
-        "791": "46.2",
-        "792": "195.0",
-        "793": "31.3",
-        "794": "9.8",
-        "795": "16.1",
-        "796": "13.4",
-        "797": "11.7"
+        "faculty": 46.2,
+        "research": 31.3,
+        "resources": 9.1,
+        "discipline": 18,
+        "top_talent": 16.1,
+        "school_level": 30.5,
+        "international": 11.7,
+        "major_projects": 13.4,
+        "social_service": 9.8,
+        "talent_training": 195
       }
     }
   },
@@ -1652,16 +1652,16 @@
         "211"
       ],
       "indicators": {
-        "788": "31.0",
-        "789": "22.4",
-        "790": "7.3",
-        "791": "43.6",
-        "792": "171.9",
-        "793": "34.9",
-        "794": "13.1",
-        "795": "23.0",
-        "796": "16.2",
-        "797": "17.1"
+        "faculty": 43.6,
+        "research": 34.9,
+        "resources": 7.3,
+        "discipline": 22.4,
+        "top_talent": 23,
+        "school_level": 31,
+        "international": 17.1,
+        "major_projects": 16.2,
+        "social_service": 13.1,
+        "talent_training": 171.9
       }
     }
   },
@@ -1690,16 +1690,16 @@
         "211"
       ],
       "indicators": {
-        "788": "33.0",
-        "789": "16.2",
-        "790": "8.6",
-        "791": "43.3",
-        "792": "194.7",
-        "793": "40.5",
-        "794": "12.6",
-        "795": "14.1",
-        "796": "7.5",
-        "797": "9.7"
+        "faculty": 43.3,
+        "research": 40.5,
+        "resources": 8.6,
+        "discipline": 16.2,
+        "top_talent": 14.1,
+        "school_level": 33,
+        "international": 9.7,
+        "major_projects": 7.5,
+        "social_service": 12.6,
+        "talent_training": 194.7
       }
     }
   },
@@ -1728,16 +1728,16 @@
         "211"
       ],
       "indicators": {
-        "788": "29.7",
-        "789": "28.9",
-        "790": "7.4",
-        "791": "44.3",
-        "792": "174.8",
-        "793": "48.1",
-        "794": "7.0",
-        "795": "14.3",
-        "796": "6.2",
-        "797": "19.5"
+        "faculty": 44.3,
+        "research": 48.1,
+        "resources": 7.4,
+        "discipline": 28.9,
+        "top_talent": 14.3,
+        "school_level": 29.7,
+        "international": 19.5,
+        "major_projects": 6.2,
+        "social_service": 7,
+        "talent_training": 174.8
       }
     }
   },
@@ -1766,16 +1766,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.4",
-        "789": "30.8",
-        "790": "8.3",
-        "791": "44.2",
-        "792": "160.5",
-        "793": "39.7",
-        "794": "8.8",
-        "795": "22.0",
-        "796": "12.4",
-        "797": "18.5"
+        "faculty": 44.2,
+        "research": 39.7,
+        "resources": 8.3,
+        "discipline": 30.8,
+        "top_talent": 22,
+        "school_level": 30.4,
+        "international": 18.5,
+        "major_projects": 12.4,
+        "social_service": 8.8,
+        "talent_training": 160.5
       }
     }
   },
@@ -1803,16 +1803,16 @@
         "双一流"
       ],
       "indicators": {
-        "788": "37.7",
-        "789": "13.1",
-        "790": "19.4",
-        "791": "48.4",
-        "792": "145.8",
-        "793": "25.6",
-        "794": "7.0",
-        "795": "28.8",
-        "796": "6.8",
-        "797": "40.8"
+        "faculty": 48.4,
+        "research": 25.6,
+        "resources": 19.4,
+        "discipline": 13.1,
+        "top_talent": 28.8,
+        "school_level": 37.7,
+        "international": 40.8,
+        "major_projects": 6.8,
+        "social_service": 7,
+        "talent_training": 145.8
       }
     }
   },
@@ -1841,16 +1841,16 @@
         "211"
       ],
       "indicators": {
-        "788": "31.2",
-        "789": "32.0",
-        "790": "5.5",
-        "791": "43.1",
-        "792": "192.3",
-        "793": "25.4",
-        "794": "1.6",
-        "795": "14.3",
-        "796": "15.1",
-        "797": "12.0"
+        "faculty": 43.1,
+        "research": 25.4,
+        "resources": 5.5,
+        "discipline": 32,
+        "top_talent": 14.3,
+        "school_level": 31.2,
+        "international": 12,
+        "major_projects": 15.1,
+        "social_service": 1.6,
+        "talent_training": 192.3
       }
     }
   },
@@ -1879,16 +1879,16 @@
         "211"
       ],
       "indicators": {
-        "788": "29.3",
-        "789": "18.8",
-        "790": "7.8",
-        "791": "45.5",
-        "792": "179.2",
-        "793": "34.3",
-        "794": "11.0",
-        "795": "17.5",
-        "796": "11.9",
-        "797": "11.0"
+        "faculty": 45.5,
+        "research": 34.3,
+        "resources": 7.8,
+        "discipline": 18.8,
+        "top_talent": 17.5,
+        "school_level": 29.3,
+        "international": 11,
+        "major_projects": 11.9,
+        "social_service": 11,
+        "talent_training": 179.2
       }
     }
   },
@@ -1917,16 +1917,16 @@
         "211"
       ],
       "indicators": {
-        "788": "31.0",
-        "789": "19.2",
-        "790": "7.9",
-        "791": "41.4",
-        "792": "172.8",
-        "793": "27.0",
-        "794": "12.5",
-        "795": "18.3",
-        "796": "19.9",
-        "797": "10.4"
+        "faculty": 41.4,
+        "research": 27,
+        "resources": 7.9,
+        "discipline": 19.2,
+        "top_talent": 18.3,
+        "school_level": 31,
+        "international": 10.4,
+        "major_projects": 19.9,
+        "social_service": 12.5,
+        "talent_training": 172.8
       }
     }
   },
@@ -1956,16 +1956,16 @@
         "211"
       ],
       "indicators": {
-        "788": "31.7",
-        "789": "20.2",
-        "790": "8.1",
-        "791": "46.3",
-        "792": "162.6",
-        "793": "34.1",
-        "794": "6.0",
-        "795": "20.9",
-        "796": "11.1",
-        "797": "18.1"
+        "faculty": 46.3,
+        "research": 34.1,
+        "resources": 8.1,
+        "discipline": 20.2,
+        "top_talent": 20.9,
+        "school_level": 31.7,
+        "international": 18.1,
+        "major_projects": 11.1,
+        "social_service": 6,
+        "talent_training": 162.6
       }
     }
   },
@@ -1994,16 +1994,16 @@
         "211"
       ],
       "indicators": {
-        "788": "29.6",
-        "789": "19.5",
-        "790": "6.3",
-        "791": "43.7",
-        "792": "156.4",
-        "793": "30.1",
-        "794": "24.1",
-        "795": "16.4",
-        "796": "15.6",
-        "797": "14.1"
+        "faculty": 43.7,
+        "research": 30.1,
+        "resources": 6.3,
+        "discipline": 19.5,
+        "top_talent": 16.4,
+        "school_level": 29.6,
+        "international": 14.1,
+        "major_projects": 15.6,
+        "social_service": 24.1,
+        "talent_training": 156.4
       }
     }
   },
@@ -2032,16 +2032,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.6",
-        "789": "25.5",
-        "790": "5.8",
-        "791": "43.8",
-        "792": "166.5",
-        "793": "32.4",
-        "794": "3.2",
-        "795": "19.2",
-        "796": "14.6",
-        "797": "13.4"
+        "faculty": 43.8,
+        "research": 32.4,
+        "resources": 5.8,
+        "discipline": 25.5,
+        "top_talent": 19.2,
+        "school_level": 30.6,
+        "international": 13.4,
+        "major_projects": 14.6,
+        "social_service": 3.2,
+        "talent_training": 166.5
       }
     }
   },
@@ -2070,16 +2070,16 @@
         "211"
       ],
       "indicators": {
-        "788": "28.9",
-        "789": "18.7",
-        "790": "7.3",
-        "791": "44.2",
-        "792": "168.0",
-        "793": "31.4",
-        "794": "8.1",
-        "795": "12.1",
-        "796": "15.8",
-        "797": "17.2"
+        "faculty": 44.2,
+        "research": 31.4,
+        "resources": 7.3,
+        "discipline": 18.7,
+        "top_talent": 12.1,
+        "school_level": 28.9,
+        "international": 17.2,
+        "major_projects": 15.8,
+        "social_service": 8.1,
+        "talent_training": 168
       }
     }
   },
@@ -2108,16 +2108,16 @@
         "211"
       ],
       "indicators": {
-        "788": "29.4",
-        "789": "21.1",
-        "790": "7.6",
-        "791": "45.0",
-        "792": "153.3",
-        "793": "35.8",
-        "794": "8.1",
-        "795": "20.6",
-        "796": "9.3",
-        "797": "20.6"
+        "faculty": 45,
+        "research": 35.8,
+        "resources": 7.6,
+        "discipline": 21.1,
+        "top_talent": 20.6,
+        "school_level": 29.4,
+        "international": 20.6,
+        "major_projects": 9.3,
+        "social_service": 8.1,
+        "talent_training": 153.3
       }
     }
   },
@@ -2146,16 +2146,16 @@
         "211"
       ],
       "indicators": {
-        "788": "29.3",
-        "789": "13.7",
-        "790": "6.0",
-        "791": "42.4",
-        "792": "155.6",
-        "793": "27.3",
-        "794": "15.5",
-        "795": "17.9",
-        "796": "15.4",
-        "797": "22.1"
+        "faculty": 42.4,
+        "research": 27.3,
+        "resources": 6,
+        "discipline": 13.7,
+        "top_talent": 17.9,
+        "school_level": 29.3,
+        "international": 22.1,
+        "major_projects": 15.4,
+        "social_service": 15.5,
+        "talent_training": 155.6
       }
     }
   },
@@ -2184,16 +2184,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.7",
-        "789": "21.0",
-        "790": "5.5",
-        "791": "45.6",
-        "792": "165.8",
-        "793": "29.6",
-        "794": "4.2",
-        "795": "14.0",
-        "796": "12.9",
-        "797": "15.1"
+        "faculty": 45.6,
+        "research": 29.6,
+        "resources": 5.5,
+        "discipline": 21,
+        "top_talent": 14,
+        "school_level": 30.7,
+        "international": 15.1,
+        "major_projects": 12.9,
+        "social_service": 4.2,
+        "talent_training": 165.8
       }
     }
   },
@@ -2222,16 +2222,16 @@
         "211"
       ],
       "indicators": {
-        "788": "29.0",
-        "789": "22.6",
-        "790": "7.4",
-        "791": "45.7",
-        "792": "145.2",
-        "793": "35.5",
-        "794": "7.2",
-        "795": "21.8",
-        "796": "11.4",
-        "797": "17.9"
+        "faculty": 45.7,
+        "research": 35.5,
+        "resources": 7.4,
+        "discipline": 22.6,
+        "top_talent": 21.8,
+        "school_level": 29,
+        "international": 17.9,
+        "major_projects": 11.4,
+        "social_service": 7.2,
+        "talent_training": 145.2
       }
     }
   },
@@ -2260,16 +2260,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.2",
-        "789": "21.1",
-        "790": "9.2",
-        "791": "46.2",
-        "792": "152.2",
-        "793": "32.0",
-        "794": "5.8",
-        "795": "17.3",
-        "796": "8.6",
-        "797": "18.6"
+        "faculty": 46.2,
+        "research": 32,
+        "resources": 9.2,
+        "discipline": 21.1,
+        "top_talent": 17.3,
+        "school_level": 32.2,
+        "international": 18.6,
+        "major_projects": 8.6,
+        "social_service": 5.8,
+        "talent_training": 152.2
       }
     }
   },
@@ -2298,16 +2298,16 @@
         "211"
       ],
       "indicators": {
-        "788": "27.5",
-        "789": "23.3",
-        "790": "6.8",
-        "791": "44.1",
-        "792": "176.2",
-        "793": "32.3",
-        "794": "4.2",
-        "795": "11.2",
-        "796": "7.0",
-        "797": "10.5"
+        "faculty": 44.1,
+        "research": 32.3,
+        "resources": 6.8,
+        "discipline": 23.3,
+        "top_talent": 11.2,
+        "school_level": 27.5,
+        "international": 10.5,
+        "major_projects": 7,
+        "social_service": 4.2,
+        "talent_training": 176.2
       }
     }
   },
@@ -2336,16 +2336,16 @@
         "211"
       ],
       "indicators": {
-        "788": "29.4",
-        "789": "15.9",
-        "790": "6.4",
-        "791": "39.8",
-        "792": "159.2",
-        "793": "30.0",
-        "794": "13.7",
-        "795": "20.1",
-        "796": "13.4",
-        "797": "14.8"
+        "faculty": 39.8,
+        "research": 30,
+        "resources": 6.4,
+        "discipline": 15.9,
+        "top_talent": 20.1,
+        "school_level": 29.4,
+        "international": 14.8,
+        "major_projects": 13.4,
+        "social_service": 13.7,
+        "talent_training": 159.2
       }
     }
   },
@@ -2374,16 +2374,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.5",
-        "789": "19.5",
-        "790": "5.5",
-        "791": "42.1",
-        "792": "165.6",
-        "793": "31.9",
-        "794": "7.2",
-        "795": "12.5",
-        "796": "10.2",
-        "797": "15.0"
+        "faculty": 42.1,
+        "research": 31.9,
+        "resources": 5.5,
+        "discipline": 19.5,
+        "top_talent": 12.5,
+        "school_level": 32.5,
+        "international": 15,
+        "major_projects": 10.2,
+        "social_service": 7.2,
+        "talent_training": 165.6
       }
     }
   },
@@ -2412,16 +2412,16 @@
         "211"
       ],
       "indicators": {
-        "788": "29.9",
-        "789": "18.2",
-        "790": "5.6",
-        "791": "46.7",
-        "792": "179.7",
-        "793": "25.5",
-        "794": "1.4",
-        "795": "15.2",
-        "796": "9.2",
-        "797": "10.7"
+        "faculty": 46.7,
+        "research": 25.5,
+        "resources": 5.6,
+        "discipline": 18.2,
+        "top_talent": 15.2,
+        "school_level": 29.9,
+        "international": 10.7,
+        "major_projects": 9.2,
+        "social_service": 1.4,
+        "talent_training": 179.7
       }
     }
   },
@@ -2450,16 +2450,16 @@
         "211"
       ],
       "indicators": {
-        "788": "31.9",
-        "789": "17.8",
-        "790": "8.0",
-        "791": "45.7",
-        "792": "163.7",
-        "793": "28.6",
-        "794": "9.5",
-        "795": "14.4",
-        "796": "7.3",
-        "797": "14.6"
+        "faculty": 45.7,
+        "research": 28.6,
+        "resources": 8,
+        "discipline": 17.8,
+        "top_talent": 14.4,
+        "school_level": 31.9,
+        "international": 14.6,
+        "major_projects": 7.3,
+        "social_service": 9.5,
+        "talent_training": 163.7
       }
     }
   },
@@ -2485,16 +2485,16 @@
       "url": "https://www.shanghairanking.cn/institution/shenzhen-university",
       "tags": [],
       "indicators": {
-        "788": "28.6",
-        "789": "19.2",
-        "790": "13.0",
-        "791": "42.7",
-        "792": "131.8",
-        "793": "39.6",
-        "794": "11.9",
-        "795": "24.6",
-        "796": "6.1",
-        "797": "23.9"
+        "faculty": 42.7,
+        "research": 39.6,
+        "resources": 13,
+        "discipline": 19.2,
+        "top_talent": 24.6,
+        "school_level": 28.6,
+        "international": 23.9,
+        "major_projects": 6.1,
+        "social_service": 11.9,
+        "talent_training": 131.8
       }
     }
   },
@@ -2523,16 +2523,16 @@
         "211"
       ],
       "indicators": {
-        "788": "27.9",
-        "789": "20.3",
-        "790": "6.4",
-        "791": "43.5",
-        "792": "156.0",
-        "793": "31.6",
-        "794": "18.3",
-        "795": "12.3",
-        "796": "8.8",
-        "797": "10.5"
+        "faculty": 43.5,
+        "research": 31.6,
+        "resources": 6.4,
+        "discipline": 20.3,
+        "top_talent": 12.3,
+        "school_level": 27.9,
+        "international": 10.5,
+        "major_projects": 8.8,
+        "social_service": 18.3,
+        "talent_training": 156
       }
     }
   },
@@ -2558,16 +2558,16 @@
       "url": "https://www.shanghairanking.cn/institution/zhejiang-university-of-technology",
       "tags": [],
       "indicators": {
-        "788": "30.0",
-        "789": "14.6",
-        "790": "6.2",
-        "791": "41.0",
-        "792": "168.0",
-        "793": "27.7",
-        "794": "11.3",
-        "795": "9.2",
-        "796": "11.3",
-        "797": "15.1"
+        "faculty": 41,
+        "research": 27.7,
+        "resources": 6.2,
+        "discipline": 14.6,
+        "top_talent": 9.2,
+        "school_level": 30,
+        "international": 15.1,
+        "major_projects": 11.3,
+        "social_service": 11.3,
+        "talent_training": 168
       }
     }
   },
@@ -2597,16 +2597,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.0",
-        "789": "21.3",
-        "790": "8.8",
-        "791": "46.0",
-        "792": "155.2",
-        "793": "32.9",
-        "794": "4.4",
-        "795": "11.6",
-        "796": "5.8",
-        "797": "14.6"
+        "faculty": 46,
+        "research": 32.9,
+        "resources": 8.8,
+        "discipline": 21.3,
+        "top_talent": 11.6,
+        "school_level": 30,
+        "international": 14.6,
+        "major_projects": 5.8,
+        "social_service": 4.4,
+        "talent_training": 155.2
       }
     }
   },
@@ -2635,16 +2635,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.5",
-        "789": "21.1",
-        "790": "6.0",
-        "791": "45.1",
-        "792": "158.0",
-        "793": "28.0",
-        "794": "2.6",
-        "795": "16.0",
-        "796": "7.9",
-        "797": "12.7"
+        "faculty": 45.1,
+        "research": 28,
+        "resources": 6,
+        "discipline": 21.1,
+        "top_talent": 16,
+        "school_level": 32.5,
+        "international": 12.7,
+        "major_projects": 7.9,
+        "social_service": 2.6,
+        "talent_training": 158
       }
     }
   },
@@ -2673,16 +2673,16 @@
         "211"
       ],
       "indicators": {
-        "788": "32.1",
-        "789": "21.3",
-        "790": "6.2",
-        "791": "40.9",
-        "792": "155.6",
-        "793": "29.4",
-        "794": "3.3",
-        "795": "12.8",
-        "796": "11.2",
-        "797": "13.0"
+        "faculty": 40.9,
+        "research": 29.4,
+        "resources": 6.2,
+        "discipline": 21.3,
+        "top_talent": 12.8,
+        "school_level": 32.1,
+        "international": 13,
+        "major_projects": 11.2,
+        "social_service": 3.3,
+        "talent_training": 155.6
       }
     }
   },
@@ -2711,16 +2711,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.6",
-        "789": "17.2",
-        "790": "5.1",
-        "791": "41.0",
-        "792": "153.8",
-        "793": "23.1",
-        "794": "7.9",
-        "795": "13.7",
-        "796": "10.9",
-        "797": "14.1"
+        "faculty": 41,
+        "research": 23.1,
+        "resources": 5.1,
+        "discipline": 17.2,
+        "top_talent": 13.7,
+        "school_level": 30.6,
+        "international": 14.1,
+        "major_projects": 10.9,
+        "social_service": 7.9,
+        "talent_training": 153.8
       }
     }
   },
@@ -2749,16 +2749,16 @@
         "211"
       ],
       "indicators": {
-        "788": "27.9",
-        "789": "19.7",
-        "790": "6.3",
-        "791": "37.4",
-        "792": "159.8",
-        "793": "30.2",
-        "794": "7.2",
-        "795": "9.8",
-        "796": "4.2",
-        "797": "11.8"
+        "faculty": 37.4,
+        "research": 30.2,
+        "resources": 6.3,
+        "discipline": 19.7,
+        "top_talent": 9.8,
+        "school_level": 27.9,
+        "international": 11.8,
+        "major_projects": 4.2,
+        "social_service": 7.2,
+        "talent_training": 159.8
       }
     }
   },
@@ -2787,16 +2787,16 @@
         "211"
       ],
       "indicators": {
-        "788": "26.9",
-        "789": "14.6",
-        "790": "4.0",
-        "791": "38.5",
-        "792": "134.4",
-        "793": "23.6",
-        "794": "10.4",
-        "795": "20.9",
-        "796": "30.8",
-        "797": "9.6"
+        "faculty": 38.5,
+        "research": 23.6,
+        "resources": 4,
+        "discipline": 14.6,
+        "top_talent": 20.9,
+        "school_level": 26.9,
+        "international": 9.6,
+        "major_projects": 30.8,
+        "social_service": 10.4,
+        "talent_training": 134.4
       }
     }
   },
@@ -2825,16 +2825,16 @@
         "211"
       ],
       "indicators": {
-        "788": "29.7",
-        "789": "16.1",
-        "790": "5.2",
-        "791": "40.4",
-        "792": "157.2",
-        "793": "23.6",
-        "794": "10.1",
-        "795": "9.4",
-        "796": "5.1",
-        "797": "13.6"
+        "faculty": 40.4,
+        "research": 23.6,
+        "resources": 5.2,
+        "discipline": 16.1,
+        "top_talent": 9.4,
+        "school_level": 29.7,
+        "international": 13.6,
+        "major_projects": 5.1,
+        "social_service": 10.1,
+        "talent_training": 157.2
       }
     }
   },
@@ -2862,16 +2862,16 @@
         "双一流"
       ],
       "indicators": {
-        "788": "28.6",
-        "789": "15.3",
-        "790": "7.1",
-        "791": "40.8",
-        "792": "160.7",
-        "793": "25.4",
-        "794": "4.2",
-        "795": "12.9",
-        "796": "3.7",
-        "797": "11.6"
+        "faculty": 40.8,
+        "research": 25.4,
+        "resources": 7.1,
+        "discipline": 15.3,
+        "top_talent": 12.9,
+        "school_level": 28.6,
+        "international": 11.6,
+        "major_projects": 3.7,
+        "social_service": 4.2,
+        "talent_training": 160.7
       }
     }
   },
@@ -2900,16 +2900,16 @@
         "211"
       ],
       "indicators": {
-        "788": "28.9",
-        "789": "18.6",
-        "790": "6.7",
-        "791": "40.0",
-        "792": "151.1",
-        "793": "24.2",
-        "794": "3.9",
-        "795": "12.8",
-        "796": "7.9",
-        "797": "12.5"
+        "faculty": 40,
+        "research": 24.2,
+        "resources": 6.7,
+        "discipline": 18.6,
+        "top_talent": 12.8,
+        "school_level": 28.9,
+        "international": 12.5,
+        "major_projects": 7.9,
+        "social_service": 3.9,
+        "talent_training": 151.1
       }
     }
   },
@@ -2938,16 +2938,16 @@
         "211"
       ],
       "indicators": {
-        "788": "27.1",
-        "789": "18.3",
-        "790": "5.0",
-        "791": "42.5",
-        "792": "155.7",
-        "793": "24.7",
-        "794": "9.7",
-        "795": "9.7",
-        "796": "2.9",
-        "797": "9.2"
+        "faculty": 42.5,
+        "research": 24.7,
+        "resources": 5,
+        "discipline": 18.3,
+        "top_talent": 9.7,
+        "school_level": 27.1,
+        "international": 9.2,
+        "major_projects": 2.9,
+        "social_service": 9.7,
+        "talent_training": 155.7
       }
     }
   },
@@ -2973,16 +2973,16 @@
       "url": "https://www.shanghairanking.cn/institution/jiangsu-university",
       "tags": [],
       "indicators": {
-        "788": "27.2",
-        "789": "13.6",
-        "790": "4.6",
-        "791": "44.7",
-        "792": "142.4",
-        "793": "22.7",
-        "794": "17.1",
-        "795": "5.8",
-        "796": "6.6",
-        "797": "16.6"
+        "faculty": 44.7,
+        "research": 22.7,
+        "resources": 4.6,
+        "discipline": 13.6,
+        "top_talent": 5.8,
+        "school_level": 27.2,
+        "international": 16.6,
+        "major_projects": 6.6,
+        "social_service": 17.1,
+        "talent_training": 142.4
       }
     }
   },
@@ -3010,16 +3010,16 @@
         "双一流"
       ],
       "indicators": {
-        "788": "26.7",
-        "789": "14.2",
-        "790": "4.0",
-        "791": "40.8",
-        "792": "164.4",
-        "793": "18.1",
-        "794": "10.7",
-        "795": "5.3",
-        "796": "1.3",
-        "797": "12.3"
+        "faculty": 40.8,
+        "research": 18.1,
+        "resources": 4,
+        "discipline": 14.2,
+        "top_talent": 5.3,
+        "school_level": 26.7,
+        "international": 12.3,
+        "major_projects": 1.3,
+        "social_service": 10.7,
+        "talent_training": 164.4
       }
     }
   },
@@ -3048,16 +3048,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.0",
-        "789": "17.4",
-        "790": "5.8",
-        "791": "44.0",
-        "792": "145.9",
-        "793": "23.4",
-        "794": "2.5",
-        "795": "12.4",
-        "796": "3.1",
-        "797": "10.4"
+        "faculty": 44,
+        "research": 23.4,
+        "resources": 5.8,
+        "discipline": 17.4,
+        "top_talent": 12.4,
+        "school_level": 30,
+        "international": 10.4,
+        "major_projects": 3.1,
+        "social_service": 2.5,
+        "talent_training": 145.9
       }
     }
   },
@@ -3086,16 +3086,16 @@
         "211"
       ],
       "indicators": {
-        "788": "28.6",
-        "789": "12.2",
-        "790": "6.1",
-        "791": "40.6",
-        "792": "145.7",
-        "793": "25.6",
-        "794": "11.0",
-        "795": "8.8",
-        "796": "4.2",
-        "797": "10.6"
+        "faculty": 40.6,
+        "research": 25.6,
+        "resources": 6.1,
+        "discipline": 12.2,
+        "top_talent": 8.8,
+        "school_level": 28.6,
+        "international": 10.6,
+        "major_projects": 4.2,
+        "social_service": 11,
+        "talent_training": 145.7
       }
     }
   },
@@ -3124,16 +3124,16 @@
         "211"
       ],
       "indicators": {
-        "788": "27.3",
-        "789": "18.7",
-        "790": "5.0",
-        "791": "38.7",
-        "792": "156.8",
-        "793": "24.9",
-        "794": "4.3",
-        "795": "4.5",
-        "796": "2.7",
-        "797": "8.2"
+        "faculty": 38.7,
+        "research": 24.9,
+        "resources": 5,
+        "discipline": 18.7,
+        "top_talent": 4.5,
+        "school_level": 27.3,
+        "international": 8.2,
+        "major_projects": 2.7,
+        "social_service": 4.3,
+        "talent_training": 156.8
       }
     }
   },
@@ -3162,16 +3162,16 @@
         "211"
       ],
       "indicators": {
-        "788": "30.2",
-        "789": "16.4",
-        "790": "4.4",
-        "791": "38.7",
-        "792": "145.8",
-        "793": "24.7",
-        "794": "4.5",
-        "795": "6.8",
-        "796": "5.9",
-        "797": "11.5"
+        "faculty": 38.7,
+        "research": 24.7,
+        "resources": 4.4,
+        "discipline": 16.4,
+        "top_talent": 6.8,
+        "school_level": 30.2,
+        "international": 11.5,
+        "major_projects": 5.9,
+        "social_service": 4.5,
+        "talent_training": 145.8
       }
     }
   },
@@ -3200,16 +3200,16 @@
         "211"
       ],
       "indicators": {
-        "788": "26.4",
-        "789": "16.7",
-        "790": "7.7",
-        "791": "41.2",
-        "792": "134.8",
-        "793": "26.5",
-        "794": "6.8",
-        "795": "9.4",
-        "796": "3.3",
-        "797": "14.2"
+        "faculty": 41.2,
+        "research": 26.5,
+        "resources": 7.7,
+        "discipline": 16.7,
+        "top_talent": 9.4,
+        "school_level": 26.4,
+        "international": 14.2,
+        "major_projects": 3.3,
+        "social_service": 6.8,
+        "talent_training": 134.8
       }
     }
   },
@@ -3235,16 +3235,16 @@
       "url": "https://www.shanghairanking.cn/institution/nanjing-tech-university",
       "tags": [],
       "indicators": {
-        "788": "28.0",
-        "789": "11.3",
-        "790": "4.9",
-        "791": "42.0",
-        "792": "130.0",
-        "793": "21.5",
-        "794": "13.0",
-        "795": "10.3",
-        "796": "6.7",
-        "797": "17.5"
+        "faculty": 42,
+        "research": 21.5,
+        "resources": 4.9,
+        "discipline": 11.3,
+        "top_talent": 10.3,
+        "school_level": 28,
+        "international": 17.5,
+        "major_projects": 6.7,
+        "social_service": 13,
+        "talent_training": 130
       }
     }
   },
@@ -3273,16 +3273,16 @@
         "211"
       ],
       "indicators": {
-        "788": "28.7",
-        "789": "13.9",
-        "790": "5.2",
-        "791": "40.8",
-        "792": "144.6",
-        "793": "20.3",
-        "794": "6.0",
-        "795": "6.6",
-        "796": "5.1",
-        "797": "11.7"
+        "faculty": 40.8,
+        "research": 20.3,
+        "resources": 5.2,
+        "discipline": 13.9,
+        "top_talent": 6.6,
+        "school_level": 28.7,
+        "international": 11.7,
+        "major_projects": 5.1,
+        "social_service": 6,
+        "talent_training": 144.6
       }
     }
   },
@@ -3308,16 +3308,16 @@
       "url": "https://www.shanghairanking.cn/institution/fujian-normal-university",
       "tags": [],
       "indicators": {
-        "788": "27.3",
-        "789": "14.0",
-        "790": "4.2",
-        "791": "39.8",
-        "792": "149.9",
-        "793": "20.3",
-        "794": "1.4",
-        "795": "8.5",
-        "796": "5.1",
-        "797": "11.9"
+        "faculty": 39.8,
+        "research": 20.3,
+        "resources": 4.2,
+        "discipline": 14,
+        "top_talent": 8.5,
+        "school_level": 27.3,
+        "international": 11.9,
+        "major_projects": 5.1,
+        "social_service": 1.4,
+        "talent_training": 149.9
       }
     }
   },
@@ -3343,16 +3343,16 @@
       "url": "https://www.shanghairanking.cn/institution/zhejiang-normal-university",
       "tags": [],
       "indicators": {
-        "788": "27.2",
-        "789": "12.6",
-        "790": "5.0",
-        "791": "38.1",
-        "792": "148.1",
-        "793": "18.4",
-        "794": "4.9",
-        "795": "8.6",
-        "796": "4.5",
-        "797": "14.9"
+        "faculty": 38.1,
+        "research": 18.4,
+        "resources": 5,
+        "discipline": 12.6,
+        "top_talent": 8.6,
+        "school_level": 27.2,
+        "international": 14.9,
+        "major_projects": 4.5,
+        "social_service": 4.9,
+        "talent_training": 148.1
       }
     }
   },
@@ -3381,16 +3381,16 @@
         "211"
       ],
       "indicators": {
-        "788": "28.9",
-        "789": "17.0",
-        "790": "4.2",
-        "791": "39.7",
-        "792": "141.7",
-        "793": "20.3",
-        "794": "1.7",
-        "795": "12.3",
-        "796": "7.0",
-        "797": "7.7"
+        "faculty": 39.7,
+        "research": 20.3,
+        "resources": 4.2,
+        "discipline": 17,
+        "top_talent": 12.3,
+        "school_level": 28.9,
+        "international": 7.7,
+        "major_projects": 7,
+        "social_service": 1.7,
+        "talent_training": 141.7
       }
     }
   },
@@ -3418,16 +3418,16 @@
         "双一流"
       ],
       "indicators": {
-        "788": "27.4",
-        "789": "14.6",
-        "790": "4.5",
-        "791": "41.4",
-        "792": "147.7",
-        "793": "18.8",
-        "794": "5.1",
-        "795": "5.1",
-        "796": "4.1",
-        "797": "11.6"
+        "faculty": 41.4,
+        "research": 18.8,
+        "resources": 4.5,
+        "discipline": 14.6,
+        "top_talent": 5.1,
+        "school_level": 27.4,
+        "international": 11.6,
+        "major_projects": 4.1,
+        "social_service": 5.1,
+        "talent_training": 147.7
       }
     }
   },
@@ -3453,16 +3453,16 @@
       "url": "https://www.shanghairanking.cn/institution/yangzhou-university",
       "tags": [],
       "indicators": {
-        "788": "26.8",
-        "789": "15.5",
-        "790": "5.0",
-        "791": "42.3",
-        "792": "135.0",
-        "793": "24.4",
-        "794": "4.2",
-        "795": "7.8",
-        "796": "5.5",
-        "797": "13.8"
+        "faculty": 42.3,
+        "research": 24.4,
+        "resources": 5,
+        "discipline": 15.5,
+        "top_talent": 7.8,
+        "school_level": 26.8,
+        "international": 13.8,
+        "major_projects": 5.5,
+        "social_service": 4.2,
+        "talent_training": 135
       }
     }
   },
@@ -3490,16 +3490,16 @@
         "双一流"
       ],
       "indicators": {
-        "788": "27.9",
-        "789": "18.6",
-        "790": "6.8",
-        "791": "43.0",
-        "792": "125.7",
-        "793": "23.6",
-        "794": "2.3",
-        "795": "11.0",
-        "796": "7.5",
-        "797": "12.7"
+        "faculty": 43,
+        "research": 23.6,
+        "resources": 6.8,
+        "discipline": 18.6,
+        "top_talent": 11,
+        "school_level": 27.9,
+        "international": 12.7,
+        "major_projects": 7.5,
+        "social_service": 2.3,
+        "talent_training": 125.7
       }
     }
   },
@@ -3525,16 +3525,16 @@
       "url": "https://www.shanghairanking.cn/institution/guangdong-university-of-technology",
       "tags": [],
       "indicators": {
-        "788": "25.9",
-        "789": "12.9",
-        "790": "5.9",
-        "791": "36.4",
-        "792": "128.2",
-        "793": "21.4",
-        "794": "12.1",
-        "795": "9.3",
-        "796": "8.3",
-        "797": "15.6"
+        "faculty": 36.4,
+        "research": 21.4,
+        "resources": 5.9,
+        "discipline": 12.9,
+        "top_talent": 9.3,
+        "school_level": 25.9,
+        "international": 15.6,
+        "major_projects": 8.3,
+        "social_service": 12.1,
+        "talent_training": 128.2
       }
     }
   },
@@ -3563,16 +3563,16 @@
         "211"
       ],
       "indicators": {
-        "788": "26.7",
-        "789": "15.2",
-        "790": "6.2",
-        "791": "38.3",
-        "792": "148.2",
-        "793": "20.9",
-        "794": "6.3",
-        "795": "6.2",
-        "796": "<1.0",
-        "797": "7.2"
+        "faculty": 38.3,
+        "research": 20.9,
+        "resources": 6.2,
+        "discipline": 15.2,
+        "top_talent": 6.2,
+        "school_level": 26.7,
+        "international": 7.2,
+        "major_projects": null,
+        "social_service": 6.3,
+        "talent_training": 148.2
       }
     }
   },
@@ -3600,16 +3600,16 @@
         "双一流"
       ],
       "indicators": {
-        "788": "25.6",
-        "789": "14.6",
-        "790": "4.0",
-        "791": "42.3",
-        "792": "138.4",
-        "793": "19.5",
-        "794": "3.5",
-        "795": "8.8",
-        "796": "2.3",
-        "797": "16.2"
+        "faculty": 42.3,
+        "research": 19.5,
+        "resources": 4,
+        "discipline": 14.6,
+        "top_talent": 8.8,
+        "school_level": 25.6,
+        "international": 16.2,
+        "major_projects": 2.3,
+        "social_service": 3.5,
+        "talent_training": 138.4
       }
     }
   },
@@ -3635,16 +3635,16 @@
       "url": "https://www.shanghairanking.cn/institution/hangzhou-dianzi-university",
       "tags": [],
       "indicators": {
-        "788": "28.1",
-        "789": "10.6",
-        "790": "4.5",
-        "791": "39.5",
-        "792": "142.0",
-        "793": "20.1",
-        "794": "7.3",
-        "795": "5.9",
-        "796": "5.0",
-        "797": "11.7"
+        "faculty": 39.5,
+        "research": 20.1,
+        "resources": 4.5,
+        "discipline": 10.6,
+        "top_talent": 5.9,
+        "school_level": 28.1,
+        "international": 11.7,
+        "major_projects": 5,
+        "social_service": 7.3,
+        "talent_training": 142
       }
     }
   },
@@ -3672,16 +3672,16 @@
         "双一流"
       ],
       "indicators": {
-        "788": "30.6",
-        "789": "15.2",
-        "790": "5.4",
-        "791": "40.3",
-        "792": "128.6",
-        "793": "16.5",
-        "794": "3.8",
-        "795": "12.8",
-        "796": "7.6",
-        "797": "12.7"
+        "faculty": 40.3,
+        "research": 16.5,
+        "resources": 5.4,
+        "discipline": 15.2,
+        "top_talent": 12.8,
+        "school_level": 30.6,
+        "international": 12.7,
+        "major_projects": 7.6,
+        "social_service": 3.8,
+        "talent_training": 128.6
       }
     }
   },
