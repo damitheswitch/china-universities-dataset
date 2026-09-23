@@ -28,11 +28,15 @@ Every project touching Chinese higher-ed data ends up re-scraping the same ranki
 | `name` / `name_zh` | string | English / 中文 names — **2026-current** (13 recent renames applied) |
 | `city` / `province` / `country` | string | English names; city→province hierarchy |
 | `category` | string | `comprehensive`, `stem`, `normal`, `agriculture`, `forestry` (软科主榜 categories) |
+| `uni_type` | string | `public` / `private` — curated, populated for a subset |
+| `languages_of_instruction` | string[] | e.g. `["Chinese","English"]` — curated subset |
+| `website` | string | Official site — curated subset |
 | `logo_url` | string | Official crest on ShanghaiRanking's CDN (hotlink — needs an HTTP `Referer` header to load) |
 | `shanghairanking.national_rank` | int | 软科主榜 national rank (1–573) |
 | `shanghairanking.score` | float | Total score (published for ~top 500; `null` for 500+ tier) |
 | `shanghairanking.url` | string | Deep link to the school's institution page |
 | `shanghairanking.tags` | string[] | `985`, `211`, `双一流` (Double First-Class) where applicable |
+| `shanghairanking.indicators` | object | 10-dimension sub-scores (办学层次/学科水平/师资/科研/国际竞争力…) — top ~100 schools only, keyed by indicator code |
 
 ## Quickstart
 
