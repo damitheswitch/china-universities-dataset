@@ -1,8 +1,8 @@
 # China Universities Dataset 🎓
 
-**582 Chinese universities** — names (English + 中文), city, province, category, 985/211/双一流 tags, logos, and **ShanghaiRanking (软科中国大学排名) 2026** national ranks, scores, and institution-page links. Shipped as ready-to-use **JSON · CSV · SQL**, no scraping needed.
+**582 Chinese universities** — names (English + 中文), city, province, category, 985/211/双一流 tags, official websites, logos, and **ShanghaiRanking (软科中国大学排名) 2026** national ranks and scores, **plus the 2021 edition for comparison**. Shipped as ready-to-use **JSON · CSV · SQL**, no scraping needed.
 
-> One import and you have a structured Chinese university database: searchable slugs, province→city geography, prestige tags, and up-to-date national rankings.
+> One import and you have a structured Chinese university database: searchable slugs, province→city geography, prestige tags, official sites, and two dated ranking editions.
 
 ![records](https://img.shields.io/badge/universities-582-blue) ![ranking year](https://img.shields.io/badge/软科_2026-ranked_573-green) ![formats](https://img.shields.io/badge/formats-JSON%20%7C%20CSV%20%7C%20SQL-orange) ![license](https://img.shields.io/badge/code-MIT-lightgrey)
 
@@ -25,17 +25,19 @@ Every project touching Chinese higher-ed data ends up re-scraping the same ranki
 
 | Field | Type | Notes |
 |---|---|---|
-| `slug` | string | Canonical URL-friendly ID (`tsinghua`, `ustc`) |
-| `slug_aliases` | string[] | Alternate slugs (e.g. `tsinghua-university`) |
+| `slug` | string | Canonical URL-friendly ID (`tsinghua-university`, `ustc`) |
+| `slug_aliases` | string[] | Alternate slugs (`tsinghua`, `qinghua`, `thu`, …) |
 | `name` / `name_zh` | string | English / 中文 names — **2026-current** (13 recent renames applied) |
 | `city` / `province` / `country` | string | English names; city→province hierarchy |
 | `category` | string | `comprehensive`, `stem`, `normal`, `agriculture`, `forestry` (软科主榜 categories) |
 | `uni_type` | string | `public` / `private` — curated, populated for a subset |
 | `languages_of_instruction` | string[] | e.g. `["Chinese","English"]` — curated subset |
-| `website` | string | Official site — curated subset |
+| `website` | string | Official university site — all 582 rows |
 | `logo_url` | string | Official crest on ShanghaiRanking's CDN (hotlink — needs an HTTP `Referer` header to load) |
-| `shanghairanking.national_rank` | int | 软科主榜 national rank (1–573) |
-| `shanghairanking.score` | float | Total score (published for ~top 500; `null` for 500+ tier) |
+| `shanghairanking.national_rank` | int | 软科主榜 **2026** national rank (1–573) |
+| `shanghairanking.score` | float | 2026 total score (published for ~top 500; `null` for 500+ tier) |
+| `shanghairanking.national_rank_2021` | int | 软科主榜 **2021** national rank — all 582 rows |
+| `shanghairanking.score_2021` | float | 2021 total score — all 582 rows |
 | `shanghairanking.url` | string | Deep link to the school's institution page |
 | `shanghairanking.tags` | string[] | `985`, `211`, `双一流` (Double First-Class) where applicable |
 | `shanghairanking.indicators` | object | 10-dimension sub-scores (办学层次/学科水平/师资/科研/国际竞争力…) — top ~100 schools only, keyed by indicator code |
@@ -65,14 +67,16 @@ psql -d yourdb -f data/universities.sql
 
 ```json
 {
-  "slug": "tsinghua",
+  "slug": "tsinghua-university",
   "name": "Tsinghua University",
   "name_zh": "清华大学",
   "city": "Beijing", "province": "Beijing", "country": "China",
   "category": "comprehensive",
-  "slug_aliases": ["tsinghua-university"],
+  "website": "https://www.tsinghua.edu.cn/",
+  "slug_aliases": ["qinghua", "thu", "tsinghua"],
   "shanghairanking": {
     "year": 2026, "national_rank": 1, "score": 1087.1,
+    "national_rank_2021": 1, "score_2021": 969.2,
     "url": "https://www.shanghairanking.cn/institution/tsinghua-university",
     "tags": ["双一流", "985", "211"]
   }
@@ -81,8 +85,10 @@ psql -d yourdb -f data/universities.sql
 
 ## Coverage & honesty notes
 
-- **573 / 582** unis carry a 软科 national rank — the rest are schools not on the 主榜 (they rank in 软科's specialist lists for medicine, finance, arts, etc., which this dataset doesn't cover yet).
+- **573 / 582** unis carry a 软科 **2026** national rank — the rest are schools not on the 主榜 (they rank in 软科's specialist lists for medicine, finance, arts, etc., which this dataset doesn't cover yet).
+- `national_rank_2021` / `score_2021` hold the **2021 edition** — every row has both, so you can chart rank/score movement across 5 years. Note the score scale changed between editions, so compare *ranks*, not raw scores.
 - `score` is published only for the top ~500; lower-tier schools get `national_rank` ranges like `500+` (stored as `null` score).
+- `website` URLs come from official domains carried by the underlying 2021-vintage source — a few schools may have changed domains since; PRs welcome.
 - `city` is province-level coarse for a handful of rows (e.g. a few entries list `city: "Anhui"`). PRs fixing cities are very welcome.
 - School names are the **2026 edition** — some were renamed/upgraded in recent years (嘉兴学院→嘉兴大学, 常熟理工学院→苏州工学院…), which is a feature: this is fresher than most datasets floating around.
 
