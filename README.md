@@ -6,6 +6,8 @@
 
 ![records](https://img.shields.io/badge/universities-582-blue) ![ranking year](https://img.shields.io/badge/软科_2026-ranked_573-green) ![formats](https://img.shields.io/badge/formats-JSON%20%7C%20CSV%20%7C%20SQL-orange) ![license](https://img.shields.io/badge/code-MIT-lightgrey)
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/imadcharradi/china-universities) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/DAMIcn/china-universities)
+
 ## Why this exists
 
 Every project touching Chinese higher-ed data ends up re-scraping the same ranking sites. I built this for a student-review platform and figured I'd save everyone the trouble — clean, merged, deduped, documented. If it helps you, a ⭐ means a lot.
