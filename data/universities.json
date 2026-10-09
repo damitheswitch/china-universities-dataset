@@ -2770,7 +2770,7 @@
     "province": "Beijing",
     "country": "China",
     "category": "stem",
-    "website": "http://www.cumt.edu.cn/",
+    "website": "https://www.cumtb.edu.cn/",
     "logo_url": "https://www.shanghairanking.cn/_uni/logo/61910568.png",
     "slug_aliases": [
       "cumtb",
@@ -12096,7 +12096,7 @@
     "province": "Hunan",
     "country": "China",
     "category": "comprehensive",
-    "website": "https://www.hnust.edu.cn/",
+    "website": "https://www.huse.edu.cn/",
     "logo_url": "https://www.shanghairanking.cn/_uni/logo/89586778.png",
     "slug_aliases": [
       "hunan-7"
