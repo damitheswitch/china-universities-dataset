@@ -30,8 +30,6 @@ Every project touching Chinese higher-ed data ends up re-scraping the same ranki
 | `name` / `name_zh` | string | English / 中文 names — **2026-current** (13 recent renames applied) |
 | `city` / `province` / `country` | string | English names; city→province hierarchy |
 | `category` | string | `comprehensive`, `stem`, `normal`, `agriculture`, `forestry` (软科主榜 categories) |
-| `uni_type` | string | `public` / `private` — curated, populated for a subset |
-| `languages_of_instruction` | string[] | e.g. `["Chinese","English"]` — curated subset |
 | `website` | string | Official university site — all 582 rows |
 | `logo_url` | string | Official crest on ShanghaiRanking's CDN (hotlink — needs an HTTP `Referer` header to load) |
 | `shanghairanking.national_rank` | int | 软科主榜 **2026** national rank (1–573) |
@@ -89,6 +87,7 @@ psql -d yourdb -f data/universities.sql
 - `national_rank_2021` / `score_2021` hold the **2021 edition** — every row has both, so you can chart rank/score movement across 5 years. Note the score scale changed between editions, so compare *ranks*, not raw scores.
 - `score` is published only for the top ~500; lower-tier schools get `national_rank` ranges like `500+` (stored as `null` score).
 - `website` URLs come from official domains carried by the underlying 2021-vintage source — a few schools may have changed domains since; PRs welcome.
+- Earlier exports carried `uni_type` / `languages_of_instruction` columns with ~12 rows populated; they were dropped in v3 — too sparse to be useful.
 - `city` is province-level coarse for a handful of rows (e.g. a few entries list `city: "Anhui"`). PRs fixing cities are very welcome.
 - School names are the **2026 edition** — some were renamed/upgraded in recent years (嘉兴学院→嘉兴大学, 常熟理工学院→苏州工学院…), which is a feature: this is fresher than most datasets floating around.
 
