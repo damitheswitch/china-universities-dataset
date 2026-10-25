@@ -19,6 +19,7 @@ Every project touching Chinese higher-ed data ends up re-scraping the same ranki
 | `data/universities.json` | JSON | JS/TS apps, APIs, static sites |
 | `data/universities.csv` | CSV | Excel, pandas, quick analysis |
 | `data/universities.sql` | PostgreSQL | Direct import (`psql -f`) — includes `CREATE TABLE` |
+| `logos/<id>.png` | PNG | University crests with transparent backgrounds (604 files, ~15 MB) |
 | `scripts/scrape.mjs` | Node 18+ | Regenerate the raw ranking data any year |
 
 ## Data dictionary
@@ -31,7 +32,7 @@ Every project touching Chinese higher-ed data ends up re-scraping the same ranki
 | `city` / `province` / `country` | string | English names; city→province hierarchy |
 | `category` | string | `comprehensive`, `stem`, `normal`, `agriculture`, `forestry` (软科主榜 categories) |
 | `website` | string | Official university site — all 582 rows |
-| `logo_url` | string | Official crest on ShanghaiRanking's CDN (hotlink — needs an HTTP `Referer` header to load) |
+| `logo_url` | string | Official crest on ShanghaiRanking's CDN (provenance URL). The numeric id in the path maps to `logos/<id>.png` — a cleaned transparent-background PNG shipped with the dataset |
 | `shanghairanking.national_rank` | int | 软科主榜 **2026** national rank (1–573) |
 | `shanghairanking.score` | float | 2026 total score (published for ~top 500; `null` for 500+ tier) |
 | `shanghairanking.national_rank_2021` | int | 软科主榜 **2021** national rank — all 582 rows |
@@ -104,10 +105,18 @@ The raw payload also carries per-school indicator sub-scores (`indData`, 10 dime
 
 ## Data, attribution & disclaimer
 
-- Rankings, names, and scores are **factual data** published publicly by **ShanghaiRanking (上海软科)** — all credit belongs to them. `institution_url` links back to their site per school, and `logo_url` hotlinks their CDN rather than re-hosting.
+- Rankings, names, and scores are **factual data** published publicly by **ShanghaiRanking (上海软科)** — all credit belongs to them. `institution_url` links back to their site per school. `logo_url` keeps the CDN URL as provenance; `logos/` ships the same crests processed to transparent-background PNGs (baked-in white margins removed with a border flood-fill, seal interiors preserved).
 - This repo **is not affiliated with or endorsed by** ShanghaiRanking or any listed university. University names/logos belong to their respective owners.
 - I'm a student putting this together as a good-faith contribution so the community doesn't have to re-scrape the same pages — shared for research, education, and building useful things. If you're a rights holder and want anything changed or removed, open an issue and I'll sort it out promptly.
 - Provided **as-is**, no warranty. Verify against the source before publishing anything critical.
+
+## Changelog
+
+**v4 — 2026-10-25** — `logos/` added: 604 official crests as transparent-background PNGs. Sources: `logo` and `logo-jpg` endpoints on ShanghaiRanking. All JPEG-derived and RGB PNGs with baked white backgrounds were converted to alpha (border flood-fill + de-fringe); genuine white seal interiors are untouched. Includes crests for 4 universities the CDN previously lacked mappings for (Hexi, Luliang, Gannan/applied-jiangxi, Yangtze River College) and replaces one corrupted source image (赣东学院) plus one opaque maroon-square variant (Pingxiang). Every `logo_url` with a `_uni/logo/<id>` or `_uni/logo-jpg/<id>` path now resolves to a local `logos/<id>.png`.
+
+**v3** — Dropped near-empty `uni_type` / `languages_of_instruction` columns (~12 populated rows, too sparse). CSV now 16 columns.
+
+**v2** — Added `website` for all 582 rows and the 2021 ranking edition (`national_rank_2021`, `score_2021`) for 5-year comparisons.
 
 ## License
 
